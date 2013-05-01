@@ -1,0 +1,10 @@
+answers.log
+
+# Python
+*.pyc
+
+# Mac OS X
+.DS_Store
+
+# vim
+*.swp
