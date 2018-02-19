@@ -10,3 +10,5 @@ To start::
 Your answers are recorded in answers.log by default.
 
 Questions downloaded from http://www.arrl.org/question-pools
+
+Distributed under the MIT License.
